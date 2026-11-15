@@ -69,8 +69,8 @@ Material:
     - _Value: 0.94
     - _WindSpeed: 0.5
     - _WindStrength: 0.5
-    - _Wind_Speed: 0.2
-    - _Wind_Variation: 1
+    - _Wind_Speed: 1
+    - _Wind_Variation: 0
     m_Colors:
     - _BottomColor: {r: 1, g: 1, b: 1, a: 0}
     - _WindDirection: {r: 0.1, g: 0.1, b: 0, a: 0}
